@@ -3,7 +3,7 @@
 
 ### ✴<B1> PROJETO 1: Preveja os resultados de um e-commerce utilizando o Power BI <B1>✴
 
-### contexto:
+### ✅contexto:
 
 Desenvolvi um painel gerencial para um e-commerce com foco em analisar suas vendas e definir estratégias para impulsionar resultados. O projeto utilizou duas bases de dados: uma com informações de vendas e outra com dados de clientes. Foi criado um painel com duas páginas para que os analistas possam visualizar as métricas-chave.
 
@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 ### ✴<B1> PROJETO 2: Painel gerencial automatizado utilizando Power BI  <B1>✴
 
-### Contexto:
+### ✅Contexto:
 
   A empresa de Marketing Digital "X" está focada em alcançar uma meta desafiadora neste trimestre e para isso desenvolveu um dashboard no Power BI. Esse painel permite monitorar os principais indicadores de desempenho das campanhas de marketing,       incluindo taxa de conversão, ROI e custo por lead. Essa ferramenta não apenas fornece uma visão detalhada do impacto das estratégias atuais, mas também ajuda a identificar oportunidades de otimização e a selecionar os melhores planos de ação para atingir os objetivos trimestrais de forma informada e estratégica.
 
