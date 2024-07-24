@@ -24,26 +24,28 @@ ________________________________________________________________________________
 
 ### Contexto:
 
+  A empresa de Marketing Digital "X" está focada em alcançar uma meta desafiadora neste trimestre e para isso desenvolveu um dashboard no Power BI. Esse painel permite monitorar os principais indicadores de desempenho das campanhas de marketing,       incluindo taxa de conversão, ROI e custo por lead. Essa ferramenta não apenas fornece uma visão detalhada do impacto das estratégias atuais, mas também ajuda a identificar oportunidades de otimização e a selecionar os melhores planos de ação para atingir os objetivos trimestrais de forma informada e estratégica.
 
 
-### DESCRIÇÃO DOS PAINEL:
+### Descrição do painel:
 
-▪ Card do Filtro de data;
+  ▪ Card do Filtro de data;
+  
+  ▪ Card com Receita total;
+  
+  ▪ Card com Soma da Receita média por compra;
+ 
+  ▪ Card com Total de compradores;
+  
+  ▪ Card com visualizações;
+  
+  ▪ Gráfico com as compradores por dia;
+  
+  ▪ Gráfico com as compradores por origem;
+  
+  ▪ Gráfico com os usuários por plataforma;
+  
+  ▪ Gráfico com os usuários por cidade;
+  
+  ▪ Gráfico com suários ativos por gênero;
 
-▪ Card com Receita total;
-
-▪ Card com Soma da Receita média por compra;
-
-▪ Card com Total de compradores;
-
-▪ Card com visualizações;
-
-▪ Gráfico com as compradores por dia;
-
-▪ Gráfico com as compradores por origem;
-
-▪ Gráfico com os usuários por plataforma;
-
-▪ Gráfico com os usuários por cidade;
-
-▪ Gráfico com suários ativos por gênero;
